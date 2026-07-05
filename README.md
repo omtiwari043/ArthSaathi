@@ -147,4 +147,4 @@ Includes:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/arthsaathi.git
+git clone https://github.com/omtiwari043/arthsaathi.git
