@@ -12,7 +12,7 @@
 ### 🚀 Smart. Elegant. Personalized.  
 ### **Your Modern AI Dashboard for Intelligent Wealth Management**
 
-[🌐 Live Demo](#) • [🐛 Report Bug](#) • [✨ Request Feature](#)
+[🌐 Live Demo](https://arthsaathibyspg.netlify.app/) • [🐛 Report Bug](omtiwari043@gmail.com) • [✨ Request Feature](omtiwari043@gmail.com)
 
 </div>
 
